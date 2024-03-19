@@ -1,2 +1,2 @@
-# ccp_html_w24
- SI339 common class project mobile view
+# discussion 10 - javascript
+initialized javascript edits in the recipe page
